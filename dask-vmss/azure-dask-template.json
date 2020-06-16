@@ -106,7 +106,7 @@
         }
     },
     "variables": {
-        "azureScriptInitUrl": "https://raw.githubusercontent.com/praneet22/dask-arm/master/dask-init.sh",
+        "azureScriptInitUrl": "https://raw.githubusercontent.com/praneet22/dask-azure/master/dask-vmss/dask-init.sh",
         "vmName": "dask-node",
         "subnetWorkers": "10.32.0.0/16",
         "subnetHead": "10.33.0.0/16",
